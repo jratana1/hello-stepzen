@@ -14,4 +14,4 @@ type Query {
       type: "__openweathermap_weather_location_connector__"
       configuration: "owm_default"
     )
-}
+}   
